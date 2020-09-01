@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://eager-leakey-325f33.netlify.app"
 languageCode = "en"
 title = "Rezzepiez"
 theme = "kiss"
@@ -50,10 +50,10 @@ platforms = ["github","facebook","twitter","instagram","email","codepen","linked
 
 [params.matomoAnalytics]
 siteID = 1
-rootURL = "//matomo.example.com/"
+rootURL = ""
 
 [params.fathomAnalytics]
-rootURL = "//fathom.example.com/"
+rootURL = ""
 
 [taxonomies]
 tag ="tags"
